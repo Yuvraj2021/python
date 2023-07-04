@@ -1,3 +1,16 @@
+THE MAIN.PY CONTAINS CODE OF REAL TIME OBJECT RECOGNITION USING WEBCAM
+DEPENDENCIES ARE
+1 Verify that you have the correct versions of OpenCV and its dependencies installed. You can try upgrading to the latest versions using pip install --upgrade opencv-python.
+
+2 Double-check that you have the correct versions of the YOLO model weights, configuration file, and the coco.names file. Ensure that they are placed in the same directory as your Python script.
+
+3 Check if the YOLO model files (yolov3.weights and yolov3.cfg) were properly downloaded and are not corrupt. You may try re-downloading them from the official source.
+YOLO WEIGHTS IS MISSING IN THE REPO YOU CAN DOWNLOAD IT WITH FOLLOWING STEPS AS FOLLOWS
+    Visit the official YOLO website: https://pjreddie.com/darknet/yolo/
+    Scroll down to the section titled "YOLOv3" and locate the "Darknet" heading.
+    Click on the "YOLOv3 Weights" link to download the pre-trained model weights file. The file is named "yolov3.weights".
+    
+    
     Set up the Development Environment:
         Install Python and the necessary libraries (e.g., OpenCV, TensorFlow, or PyTorch) using package managers like pip or Anaconda.
 
