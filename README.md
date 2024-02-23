@@ -1,5 +1,4 @@
-THE MAIN.PY CONTAINS CODE OF REAL TIME OBJECT RECOGNITION USING WEBCAM
-DEPENDENCIES ARE
+THE MAIN.PY CONTAINS CODE OF REAL TIME OBJECT RECOGNITION USING WEBCAM DEPENDENCIES ARE 
 1 Verify that you have the correct versions of OpenCV and its dependencies installed. You can try upgrading to the latest versions using pip install --upgrade opencv-python.
 
 2 Double-check that you have the correct versions of the YOLO model weights, configuration file, and the coco.names file. Ensure that they are placed in the same directory as your Python script.
